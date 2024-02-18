@@ -32,8 +32,8 @@ const Home = () => {
     <div>
       <Header />
       <div className="bg-gray-100 py-8">
-        <div className="container mx-auto px-4">
-          <h1 className="text-4xl font-bold text-center mb-8 text-gray-800">
+        <div className="container mx-auto px-4 flex items-center justify-center h-screen">
+          <h1 className="text-4xl font-bold text-center text-gray-800">
             Esta es mi página. Soy Diego Ordaz Rios
           </h1>
         </div>
@@ -43,5 +43,4 @@ const Home = () => {
 };
 
 export default Home;
-
 
