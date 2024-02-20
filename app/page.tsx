@@ -24,7 +24,7 @@ export default function Home() {
 
 // pages/index.js
 
-import Header from '../components/Header';
+import Header from './components/Header';
 
 
 const Home = () => {
