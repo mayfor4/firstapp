@@ -2,7 +2,7 @@
 // components/Header.js
 
 
-const Header = () => {
+/*const Header = () => {
     return (
       <header className="bg-black text-white p-4">
         <div className="container mx-auto flex justify-between items-center">
@@ -16,4 +16,4 @@ const Header = () => {
   };
 
   
-  export default Header;
+  export default Header;*/
