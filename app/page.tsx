@@ -43,6 +43,9 @@ export default function Home() {
              className="rounded-lg"
            />
            </p>
+           <h1 className="text-4xl font-bold text-center text-gray-800 mb-4">
+             Hola esta es mi pagina bienvenidos
+          </h1>
         </div>
       </div>
       <Footer />
